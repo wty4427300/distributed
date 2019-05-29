@@ -9,3 +9,5 @@
 4.分布式锁（正在学习zookeepr实现）
 
 5.mapreduce(用go简单实现了)
+
+6.raft(理论懂了)
